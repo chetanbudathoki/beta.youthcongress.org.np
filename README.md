@@ -1,1 +1,1 @@
-# bata.youthcongress.org.np
+# github.com/youthcongress/nepal
